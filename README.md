@@ -1,4 +1,6 @@
 # linux-docker-installer
+
+![Screenshot 2024-04-19 at 14 10 39](https://repository-images.githubusercontent.com/834938237/787e0038-e27b-4f6b-a404-efd270c0b2e7)
 Bash script to install and uninstall docker and docker-compose on Linux system
 
 ## Setup Docker
