@@ -52,7 +52,7 @@ wget https://raw.githubusercontent.com/ham1dev/linux-docker-installer/main/unins
 ```
 ### 2 - Make the Script Executable
 ```bash
-chmod +x uninstall_docker-compose.shh
+chmod +x uninstall_docker-compose.sh
 ```
 ### 3 - Run the Script
 ```bash
